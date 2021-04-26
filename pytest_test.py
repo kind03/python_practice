@@ -11,4 +11,4 @@ def test_pass():
 
 # 测试失败
 def test_pass2():
-    assert func(3) == 5
+    assert func(4) == 5
